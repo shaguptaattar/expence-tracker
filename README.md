@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # expence-tracker
 Reactjs project
 >>>>>>> e3a1df14d4d1b5e19f717bf0304a7b3e457059b1
+>>>>>>>
+>>>>>>> output
+>>>>>>> 
+![Screenshot 2024-01-31 145018](https://github.com/shaguptaattar/expence-tracker/assets/156106227/2f24eb44-dcad-4257-931e-d1f99765dde0)
